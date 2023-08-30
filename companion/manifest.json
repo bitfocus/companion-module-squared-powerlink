@@ -1,5 +1,5 @@
 {
-	"id": "companion-module-squared-powerlink",
+	"id": "squared-powerlink",
 	"name": "squared-powerlink",
 	"shortname": "powerlink",
 	"description": "Control breakers and main controller from SquareD Powerlink panels.",
